@@ -1,0 +1,10 @@
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\bin\Debug\Es Linq.exe.config
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\bin\Debug\Es Linq.exe
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\bin\Debug\Es Linq.pdb
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es Linq.csprojAssemblyReference.cache
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es_Linq.Form1.resources
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es_Linq.Properties.Resources.resources
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es Linq.csproj.GenerateResource.cache
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es Linq.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es Linq.exe
+C:\Users\Joey\Desktop\Es. Delegates, Event and Linq\Es Linq\Es Linq\obj\Debug\Es Linq.pdb
